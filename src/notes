@@ -1,0 +1,14 @@
+First Step:
+  go to:
+      https://myaccount.google.com/lesssecureapps?utm_source=google-account&utm_medium=web
+  Make sure that your google account allows third part app
+
+We need some jar files in order to sent emails
+
+1. CommonsEmails.Jars folder
+    - commons-email-1.3.jar
+    - javax.mail-1.4.5-sources.jar
+    - javax.mail-1.4.5.jar
+
+2. File >> Project Structure >> Libraries >> click on ' + ' button
+3. Select and add the 3 jars files.
