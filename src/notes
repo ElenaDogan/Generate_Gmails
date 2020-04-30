@@ -12,3 +12,6 @@ We need some jar files in order to sent emails
 
 2. File >> Project Structure >> Libraries >> click on ' + ' button
 3. Select and add the 3 jars files.
+
+
+https://commons.apache.org/proper/commons-email/userguide.html
